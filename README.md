@@ -38,4 +38,4 @@ git clone https://github.com/your-username/mental-health-assistant.git
 cd mental-health-assistant
 pip install -r requirements.txt
 npm install
-python app.py
+python mental_health_assisstant.py
